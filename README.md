@@ -228,3 +228,5 @@ In addition to the hunt start and end time, there's also a somewhat non-obvious 
 - When the hunt *closes*, account registration and log ins are actually disabled.
 
 You can, of course, set the hunt close time to be equal to the hunt end time to skip the in-between stage.
+
+Test to update branch and connect multiple branches in AWS.
